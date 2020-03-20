@@ -1,0 +1,21 @@
+[submodule "vendor/Nuklear"]
+	path = vendor/Nuklear
+	url = https://github.com/Immediate-Mode-UI/Nuklear.git
+[submodule "vendor/Handmade-Math"]
+	path = vendor/Handmade-Math
+	url = https://github.com/HandmadeMath/Handmade-Math.git
+[submodule "vendor/stb"]
+	path = vendor/stb
+	url = https://github.com/nothings/stb.git
+[submodule "vendor/sokol-tools-bin"]
+	path = vendor/sokol-tools-bin
+	url = https://github.com/floooh/sokol-tools-bin.git
+[submodule "vendor/sokol"]
+	path = vendor/sokol
+	url = https://github.com/floooh/sokol.git
+[submodule "vendor/mmx"]
+	path = vendor/mmx
+	url = https://github.com/vurtun/mmx.git
+[submodule "vendor/microui"]
+	path = vendor/microui
+	url = https://github.com/rxi/microui.git
